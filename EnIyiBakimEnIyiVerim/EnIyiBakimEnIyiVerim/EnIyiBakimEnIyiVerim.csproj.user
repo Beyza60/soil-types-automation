@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Akdeniz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AluvyalToprak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bolgeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoguAnadolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ege.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuneyDoguAnadolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HafifAlkali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IcAnadolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KahverengiBozkir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Karadeniz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KaradenizLaterit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KaradenizPodzol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KaraToprak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KestaneRenkli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Marmara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TerraRossa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tuzsuz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
